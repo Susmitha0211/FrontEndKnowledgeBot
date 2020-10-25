@@ -1,0 +1,56 @@
+.one{
+	padding-top: 1px;
+	background-color: crimson	;
+	padding-left: 20px;
+	border-radius:35px;
+}
+#logo{
+	display: inline-block;
+	height:35px;
+	width:30px;
+	border-radius:50px;
+}
+.first{
+	width:410px;
+	padding-left:0%;
+  height:100%;
+}
+.two{
+	padding-bottom:20px;
+	padding-left: 50px;
+	margin-top: -6%;
+}
+
+.five{
+	width:70%;
+}
+
+.back{
+    /*background-image:url('https://i.pinimg.com/originals/4e/4f/6b/4e4f6bf89cfdf02085604709a30f25a2.jpg');*/
+	border-radius:20px;
+	width:400px;
+	height:100%;
+	background-color:khaki;
+  background-size: cover;
+  
+
+}
+.eight{
+	color: white;
+	
+}
+#messages{
+	background-image:url('https://image.freepik.com/free-vector/indian-set-temples-architecture_25030-39369.jpg');
+margin-left:9em;
+	margin-top:2em;
+}
+
+#chatLog{
+	color: black;
+  padding-left: 5px;
+}
+.inputtype{
+	background-color: grey;
+	width: 400px;
+	border-radius: 10px;
+}
