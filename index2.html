@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+	<title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--The viewport is the user's visible area of a web page.-->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="style2.css"><!--using this we linked css file in html file-->
+  <script type="text/javascript" src="myscript.js"></script><!--using this we linked js file in html file-->
+</head>
+<body>
+<div class="container first full"><!--the container class provides a responsive fixed width container-->
+	<div class="row one"> <!--this syntax is used to divide the row into required columns usinf bootstrap-->
+		<div class="col-md-2 one">
+               <img id="logo" src="https://www.pngitem.com/pimgs/m/122-1223088_one-bot-discord-avatar-hd-png-download.png">
+        </div>
+		<div class="col-md-10">
+        <h6 class="two"><h6 class="eight">Need help?Ask me</h6>
+        </div>
+     </div>
+     <div class="back">
+        <p id="chatLog">Hi! this is knowledge bot.I can help you to find languages,capitals,touristplaces of different states.Please enter your the name of state you require.<br></p>
+        <input id="userBox" class="inputtype" type="text" onkeydown="if(event.keyCode==13){talk()}"><!--The input tag specifies an input field where the user can enter data and talk function is called-->
+     </div>
+</div>
+</body>
+</html>
