@@ -21,6 +21,9 @@
 # The source links  we used to  procure the required knowledge are:
 * https://www.w3schools.com
 
+# Github link is:
+* https://github.com/Susmitha0211/FrontEndKnowledgeBot
+
 # What we learnt
 * In this week we became a little familiar with HTML, CSS, Javascript. We really enjoyed working on the frontend of our bot. 
 
