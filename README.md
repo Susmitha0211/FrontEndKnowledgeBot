@@ -18,7 +18,9 @@
 # To watch the youtube video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7crZpa196Yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# the source links  we used to  procure the required knowledge are:
+# The source links  we used to  procure the required knowledge are:
 * https://www.w3schools.com
 
+# What we learnt
+In this week we became a little familiar with HTML,CSS,Javascript.We really enjoyed working on the frontend of our bot. 
 
