@@ -14,3 +14,11 @@
 * This is basic functioning of our knowledge bot.
 # repl.it website link is:
 * https://repl.it/@susmitha2/knowledge-Bot
+
+# To watch the youtube video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7crZpa196Yk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# the source links  we used to  procure the required knowledge are:
+https://www.w3schools.com
+
+
