@@ -22,5 +22,5 @@
 * https://www.w3schools.com
 
 # What we learnt
-In this week we became a little familiar with HTML,CSS,Javascript.We really enjoyed working on the frontend of our bot. 
+* In this week we became a little familiar with HTML, CSS, Javascript. We really enjoyed working on the frontend of our bot. 
 
