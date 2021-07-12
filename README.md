@@ -6,7 +6,7 @@
 
 3.Name : Chaganti Kavya Sri ; Reg no : 19pa1a0523 ; mail_Id : 19pa1a0523@vishnu.edu.in
 
-# Protype for our Knowledgebot:
+# Prototype for our Knowledgebot:
 * As we enter into our bot,we will be greeted with the following lines "hi..........".
 * There appears a start button just below the line.
 * Clicking the button leads to a page which asks you to enter the state name of which you wanted to know about.
